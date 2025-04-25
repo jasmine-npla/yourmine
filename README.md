@@ -9,10 +9,16 @@
 </head>
 <body>
 
-  <h1>Cinta Kita Selalu Bersinar</h1>
+  <h1>Sayangku Fatya</h1>
   
   <div class="message">
-    <p>Sayang, meski dunia berubah, satu hal yang tidak akan pernah berubah adalah cintaku padamu. Setiap detik yang kita lalui bersama adalah anugerah yang tak ternilai.</p>
+    <p>Aku tahu saat ini kamu sedang merasa tidak enak badan, dan hatiku terasa berat melihatmu sakit. Namun, aku percaya bahwa kekuatanmu lebih besar daripada apapun, dan kamu akan segera pulih.
+
+Semoga setiap detik yang berlalu membawa kamu lebih dekat dengan kesembuhan. Aku selalu ada untukmu, siap memberikan dukungan dan kasih sayang yang kamu butuhkan.
+
+Cepat sembuh, Fatya, karena dunia ini terasa kurang lengkap tanpamu di sini. Aku mencintaimu lebih dari kata-kata bisa ungkapkan, dan aku tidak sabar menunggu saat kita bisa tertawa bersama lagi.
+
+</p>
     <p>Terima kasih telah menjadi bagian dari hidupku, semoga kita selalu berdua, saling mendukung dan mencintai. Kamu adalah kebahagiaan terbesar dalam hidupku. 💖</p>
   </div>
   
